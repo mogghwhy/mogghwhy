@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mogghwhy
-- 🌱 I’m currently learning go programming language
+- 🌱 I’m currently learning Spanish
 <!---
 - 👀 I’m interested in ...
 - 💞️ I’m looking to collaborate on ...
